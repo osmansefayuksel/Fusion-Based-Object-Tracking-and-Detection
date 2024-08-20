@@ -1,0 +1,3 @@
+Model weight files are required to perform the necessary tests properly. However, since the weight files are very large, the drive link is shared below:
+
+https://drive.google.com/drive/folders/1WNy8sA4AzsmmTUuArbJmyPmTVW_pPYRm?usp=sharing
